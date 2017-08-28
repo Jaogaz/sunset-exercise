@@ -9,6 +9,9 @@ body {
 }
 
 /* Add a media query to change the background to color to yellow when the width is more than 480px*/
+body{
+	background-color: yellow;
+}
 
 
 
